@@ -62,7 +62,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 1.  **Projeyi Klonlayın veya İndirin:**
     ```bash
-    git clone <proje_repository_linki>
+    git clone https://github.com/furkanertrk/web-development.git
     ```
     veya projeyi ZIP olarak indirip bir klasöre çıkartın.
 
